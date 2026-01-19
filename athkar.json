@@ -1,4 +1,17 @@
 {
+  "icon":
+  {
+    "endScreen":
+    [
+
+    ]
+  },
+
+
+  "version":
+  "1",
+
+
   "no_thekr":
   {  
     "0":
@@ -77,10 +90,10 @@
         ],
 
         "image":
-        "https://raw.githubusercontent.com/ashwaie6/thekr/f069de8d149e59f09cf55f8eaa6e9134f251a3e5/images/photoThekr0.png",
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/photoThekr0.png",
 
         "icon":
-        "https://raw.githubusercontent.com/ashwaie6/thekr/f069de8d149e59f09cf55f8eaa6e9134f251a3e5/images/iconThekr0.png"
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/iconThekr0.png"
 
       },
 
@@ -160,10 +173,10 @@
         ],
 
         "image":
-        "https://raw.githubusercontent.com/ashwaie6/thekr/f069de8d149e59f09cf55f8eaa6e9134f251a3e5/images/photoThekr1.png",
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/photoThekr1.png",
 
         "icon":
-        "https://raw.githubusercontent.com/ashwaie6/thekr/f069de8d149e59f09cf55f8eaa6e9134f251a3e5/images/iconThekr1.png"
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/iconThekr1.png"
 
       },
 
@@ -213,10 +226,10 @@
         ],
 
         "image":
-        "",
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/photoThekr2.png",
 
         "icon":
-        ""
+        "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/iconThekr2.png"
 
       },
 
@@ -244,10 +257,5 @@
         ""
 
       }
-    
-  },
-  
-  "version":
-  "1"
-  
+    }
 }
