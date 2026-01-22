@@ -1,4 +1,19 @@
 {
+  "icon":
+  {
+    "endScreen":
+    [
+      
+    ]
+  },
+
+
+  "version":
+  "1",
+
+
+  "no_thekr":
+  {
   "0": {
     "name": "أذكار الصباح",
     "image": "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/photoThekr0.png",
@@ -325,4 +340,5 @@
       }
     }
   }
+}
 }
