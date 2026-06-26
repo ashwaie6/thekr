@@ -9,13 +9,13 @@
 
 
   "version":
-    "2",
+    "1",
 
 
   "no_thekr":
     {
     "0": {
-      "name": "testأذكار الصباح",
+      "name": "أذكار الصباح",
       "image": "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/photoThekr0.png",
       "icon": "https://raw.githubusercontent.com/ashwaie6/thekr/main/images/iconThekr0.png",
       "athkar": {
