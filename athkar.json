@@ -18,6 +18,17 @@
   "version":
     "1",
 
+  "readers_athkar_audio":{
+        "athkar0":["mohammed_alborak","hitham_aldokhen"],
+        "athkar1":["mohammed_alborak","hitham_aldokhen"]
+   },
+
+  "times_athkar_audio":{
+        "athkar0":{
+            "mohammed_alborak":[],
+            "hitham_aldokhen" :[]
+        }
+  },
 
   "no_thekr":
     {
