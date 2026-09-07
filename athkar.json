@@ -23,6 +23,11 @@
         "athkar1":["mohammed_alborak","hitham_aldokhen"]
    },
 
+  "readers_athkar_names":{
+        "athkar0":["محمد البراك","هيثم الدخين"],
+        "athkar1":["محمد البراك","هيثم الدخين"]
+   },
+
   "times_athkar_audio":{
         "athkar0":{
             "mohammed_alborak":[],
